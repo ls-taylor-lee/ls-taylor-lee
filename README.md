@@ -2,14 +2,14 @@
 
 ### Welcome to my digital corner of the world! 🖥️✨
 
-I’m a passionate about blockchain, web technologies, fueled by creativity, curiosity, and a good cup of coffee. Whether I'm building new tools, exploring the latest tech trends, or solving everyday challenges, I’m all about creating meaningful and effective solutions.
+I’m passionate about blockchain, web technologies, fueled by creativity, curiosity, and a good cup of coffee. Whether I'm building new tools, exploring the latest tech trends, or solving everyday challenges, I’m all about creating meaningful and effective solutions.
 
 ---
 
 ### A Bit About Me
 
 - 🔭 Currently developing: a decentralized app that might just disrupt my local coffee shop's loyalty program (or at least confuse their baristas).
-- 🌱 Constantly learning: just picked up AI/ML, trying to teach my code to be smarter than I am (not setting the bar too high).
+- 🌱 Constantly learning: just picked up AI/ML, trying to teach my code to be smarter than I am.
 - 🌱 Still learning: to solve bugs without creating two new ones in the process, though it feels like a package deal at this point.
 - 🛠️ Love working with: anything that lets me build cool stuff and say “yes” to difficult projects.
 
